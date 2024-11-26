@@ -7,4 +7,4 @@ COPY . .
 # Compile the Java program
 RUN javac fib.java
 # Command to run the program
-CMD ["java", "fib"]
+CMD ["java", "fib"]
